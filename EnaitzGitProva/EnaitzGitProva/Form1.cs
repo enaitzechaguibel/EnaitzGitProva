@@ -20,6 +20,10 @@ namespace EnaitzGitProva
         private void Form1_Load(object sender, EventArgs e)
         {
             //tttttttttttttttttt
+            //rrrrrrrrrrrrrrrrrrr
+
+            int ena = 5;
+
         }
     }
 }
